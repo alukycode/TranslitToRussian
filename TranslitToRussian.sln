@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslitToRussian", "TranslitToRussian\TranslitToRussian.csproj", "{52D9A98D-FDE1-4A73-9081-61B446A22A28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslitToRussian.Tests", "TranslitToRussian.Tests\TranslitToRussian.Tests.csproj", "{1B0843EF-372C-4B12-ACDF-582637158579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D9A98D-FDE1-4A73-9081-61B446A22A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D9A98D-FDE1-4A73-9081-61B446A22A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D9A98D-FDE1-4A73-9081-61B446A22A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D9A98D-FDE1-4A73-9081-61B446A22A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0843EF-372C-4B12-ACDF-582637158579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0843EF-372C-4B12-ACDF-582637158579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0843EF-372C-4B12-ACDF-582637158579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0843EF-372C-4B12-ACDF-582637158579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A77791B-73DA-43B0-BD9A-51BFB6BD3CA5}
+	EndGlobalSection
+EndGlobal
